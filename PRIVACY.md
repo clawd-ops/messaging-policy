@@ -7,8 +7,10 @@ It is not a commercial service and is not available to the public.
 
 ## Who operates this
 
-Robert Landry, an individual in the United States, operating a self-hosted personal
-assistant system.
+A private individual in the United States, operating a self-hosted personal assistant
+system for his own household. The operator's identity, address, and contact details are
+registered with Twilio under the A2P brand associated with this campaign, and are
+available to carriers and regulators through that filing.
 
 ## Who receives messages
 
